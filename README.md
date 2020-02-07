@@ -1,4 +1,4 @@
-# Challenge1---Data-Science
+# Challenge1_DataScience
 
 Ultimate Inc. Take Home Challenge for completion of Springboard Data Science Career Track
 
